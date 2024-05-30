@@ -6,3 +6,6 @@ satisfaction levels. The findings will inform strategic decisions for the compan
 Tech-Stack Used:
 1. MySQL Workbench 8.0
 2. Tableau Public (Visualization)
+
+## **eCommerce Brand**
+<embed src="https://singhvishwesh007.github.io/E-Commerce-Brand/E-commerce%20Brand.pdf" width="100%" height="800px"/>
